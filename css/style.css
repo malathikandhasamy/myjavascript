@@ -1,0 +1,50 @@
+*, :after, :before {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.container {
+	width: 1170px;
+    margin: auto;
+}
+.form-control {
+	text-align: center;
+}
+.forms {
+	display:block;
+    margin: auto;
+    margin: 20px auto;
+    width: 100%;
+    padding: 8px 16px;
+    border: 0px;
+}
+.reversebutton {
+	text-align: center;
+}
+.button1 {
+	display:block;
+    background-color:#00B241;
+    color: #ffffff;
+    width: 100%;
+    padding: 10px 0px;
+    border: 0px;
+}
+.form-design {
+	background-color: #00B241;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+h3{
+    text-align: center;
+    color: #7D7D7D;
+    margin-top: 0px;
+}
+.content {
+	background-color: #F9F9F9;
+    width: 450px;
+    margin: auto;
+    padding: 15px;
+}
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
